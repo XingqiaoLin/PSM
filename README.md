@@ -21,7 +21,9 @@ z*_LP   =  7101.74   (transport 998, shortage 5529, holding 570, lane 5)
 z*_MILP =  7250.01   (transport 1005, shortage 5533, holding 572, lane 140)
 open lanes : 7 / 15,  MILP gap vs LP = 2.09 %
 ```
-
+<p align="center">
+  <img src="PSM_framework.png" alt="PSM framework overview" width="820"/>
+</p>
 ## 2. What the model captures
 
 The instance is 3 fabs × 5 customer classes × 3 products × 4 planning periods (weeks of Q1 2026).
