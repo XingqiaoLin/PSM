@@ -74,7 +74,6 @@ To try a variant, edit any CSV by hand and rerun `solve.py`. To reset, rerun `ge
 | `generate_data.py`  | Writes the 12 CSVs in `data/`. Seed 42 → deterministic.        |
 | `solve.py`          | Pyomo model + Gurobi solver + sensitivity scan → `output/results.json`. |
 | `plots.py`          | Reads `output/results.json` → four PDFs in `figs/`.            |
-| `report.tex`        | LaTeX report consuming `figs/*.pdf`.                           |
 | `data/`             | Input dataset (above).                                         |
 | `output/results.json` | Canonical machine-readable output of one run.                |
 | `figs/`             | Four figures: `allocation.pdf`, `shadow.pdf`, `lp_vs_milp.pdf`, `sensitivity.pdf`. |
