@@ -90,4 +90,4 @@ To try a variant, edit any CSV by hand and rerun `solve.py`. To reset, rerun `ge
 
 ## 6. Citation / acknowledgement
 
-This project was built for 06-664 / 06-665 (Design and Optimization of Sustainable Processes / Process Systems Modeling) at Carnegie Mellon University. The base allocation formulation follows Ng, Sun & Fowler (EJOR 2010); the multi-period rolling-horizon spirit follows Herding & Mönch (CEJOR 2024); the sustainable / resilient extension is in the style of Tsao, Tesfaye-Balo & Lee (IJPE 2024).
+This project was built for Prof. Ana Torres' 06-664 / 06-665 (Design and Optimization of Sustainable Processes / Process Systems Modeling) at Carnegie Mellon University. The base allocation formulation follows Ng, Sun & Fowler (EJOR 2010); the multi-period rolling-horizon spirit follows Herding & Mönch (CEJOR 2024); the sustainable / resilient extension is in the style of Tsao, Tesfaye-Balo & Lee (IJPE 2024).
