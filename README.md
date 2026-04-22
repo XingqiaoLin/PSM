@@ -4,6 +4,7 @@ A multi-period MILP study of how a memory manufacturer should allocate scarce HB
 <p align="center">
   <img src="PSM_framework.png" alt="PSM framework overview" width="820"/>
 </p>
+
 ## 1. Quick start
 
 ```bash
