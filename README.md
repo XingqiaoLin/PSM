@@ -1,7 +1,9 @@
 # Memory-Chip Allocation under the AI-Memory Supercycle
 
 A multi-period MILP study of how a memory manufacturer should allocate scarce HBM3e / DDR5 / DDR4 output across heterogeneous customer classes during the 2024–2026 AI-memory shortage. Built in **Pyomo**, solved with **Gurobi**, with reproducible input data as plain CSVs.
-
+<p align="center">
+  <img src="PSM_framework.png" alt="PSM framework overview" width="820"/>
+</p>
 ## 1. Quick start
 
 ```bash
@@ -21,9 +23,7 @@ z*_LP   =  7101.74   (transport 998, shortage 5529, holding 570, lane 5)
 z*_MILP =  7250.01   (transport 1005, shortage 5533, holding 572, lane 140)
 open lanes : 7 / 15,  MILP gap vs LP = 2.09 %
 ```
-<p align="center">
-  <img src="PSM_framework.png" alt="PSM framework overview" width="820"/>
-</p>
+
 ## 2. What the model captures
 
 The instance is 3 fabs × 5 customer classes × 3 products × 4 planning periods (weeks of Q1 2026).
