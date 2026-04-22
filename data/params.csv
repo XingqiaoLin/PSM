@@ -1,0 +1,7 @@
+param_id,value,description
+T_periods,4.0,number of planning periods
+lane_fixed_cost,20.0,$k per opened supplier–customer lane over horizon
+lanes_per_fab,3.0,K_i : max customers each fab can serve
+carbon_budget,900.0,"kg CO2 total (across horizon, all shipments)"
+initial_inventory,0.0,all products start at zero stock
+big_M_lane,5000.0,valid big-M for lane linking constraint

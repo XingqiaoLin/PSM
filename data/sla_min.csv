@@ -1,0 +1,4 @@
+customer_id,product_id,min_fill_rate
+CUS_AUTO,DDR4,0.85
+CUS_IND,DDR4,0.75
+CUS_SRV,DDR5,0.7

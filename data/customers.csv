@@ -1,0 +1,6 @@
+customer_id,name,tier,country
+CUS_AI,AI-Hyperscaler,AI,US
+CUS_SRV,Server OEM,Server,US
+CUS_PH,Smartphone OEM,Consumer,CN
+CUS_AUTO,Automotive Tier-1,Automotive,DE
+CUS_IND,Industrial OEM,Industrial,JP

@@ -1,0 +1,4 @@
+supplier_id,name,country,has_hbm_packaging
+FAB_KR1,Fab-KR1 (Icheon),KR,True
+FAB_KR2,"Fab-KR2 (Hwaseong, legacy node)",KR,False
+FAB_TW,Fab-TW  (Hsinchu),TW,True

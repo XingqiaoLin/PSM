@@ -1,0 +1,4 @@
+product_id,name,generation,requires_advanced_packaging
+HBM3e,HBM3e stack,Advanced,True
+DDR5,DDR5 DRAM,Current,False
+DDR4,DDR4 DRAM,Legacy,False
